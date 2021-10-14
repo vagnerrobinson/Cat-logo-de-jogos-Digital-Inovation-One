@@ -1,0 +1,6 @@
+C:\ApiCatalogoJogos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\netcoreapp3.1\ApiCatalogoJogos.csproj.AssemblyReference.cache
+C:\ApiCatalogoJogos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\netcoreapp3.1\ApiCatalogoJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\ApiCatalogoJogos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\netcoreapp3.1\ApiCatalogoJogos.AssemblyInfoInputs.cache
+C:\ApiCatalogoJogos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\netcoreapp3.1\ApiCatalogoJogos.AssemblyInfo.cs
+C:\ApiCatalogoJogos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\netcoreapp3.1\ApiCatalogoJogos.csproj.CoreCompileInputs.cache
+C:\ApiCatalogoJogos\ApiCatalogoJogos\ApiCatalogoJogos\obj\Debug\netcoreapp3.1\ApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cache
